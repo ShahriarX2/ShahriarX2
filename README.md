@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **LangChain, Supabase, and Prompt Engineering**
 - 👯 I’m open to collaborate on **open source tools and dev automation**
 - 💬 Ask me about **Next.js, Tailwind CSS, or anything AI dev-related**
-- 📫 How to reach me: **shahriarx2@gmail.com**
+- 📫 How to reach me: **shahriarhossen550@gmail.com**
 
 ---
 
